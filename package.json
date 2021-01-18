@@ -16,6 +16,9 @@
   ],
   "author": "onkbear <onkbear@gmail.com>",
   "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.12.1"
+  },
   "dependencies": {
     "axios": "^0.21.1"
   },
